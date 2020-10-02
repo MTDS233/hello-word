@@ -1,2 +1,5 @@
 # hello-word
-仅供学习使用
+
+萌新第一步
+
+Hello World!
